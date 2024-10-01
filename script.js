@@ -20,7 +20,7 @@
 
         // Function to update the image source and page number
         function updatePage() {
-            document.getElementById("current-image").src = `images/image${currentPage}.jpg`; // Update image source
+            document.getElementById("current-image").src = `image${currentPage}.jpg`; // Update image source
             document.getElementById("page-number").textContent = `Page ${currentPage}`; // Update page number
         }
    
