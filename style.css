@@ -1,0 +1,35 @@
+.image1 {
+    margin-left: 346px;
+    height: 510px;
+    margin-top: 25px;
+}
+
+.bg {
+    background-color: grey;
+    margin-top: -34px;
+    height: 653px;
+    text-align: center;
+}
+
+.next {
+    margin-left: 305px;
+    margin-top: 49px;
+    padding: 18px;
+}
+
+.previous {
+    margin-left: 400px;
+    margin-top: 30px;
+    padding: 21px;
+}
+
+.bottom {
+    margin-left: -345px;
+    margin-top: -108px;
+}
+
+
+.page-number {
+    margin: 20px;
+    font-size: 20px;
+}
